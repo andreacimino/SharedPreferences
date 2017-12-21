@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "name": "cordova-plugin-shared-preferences",
+    "name": "in.edelworks.sharedpreferences",
     "cordova_name": "Cordova MBTiles Plugin",
     "description": "Cordova/Phonegap plugin to check the state of Location/WiFi/Camera/Bluetooth device settings.",
     "author": "XXX",
@@ -10,7 +10,7 @@
         "url": "https://github.com/https://github.com/andreacimino/cordova-plugin-mbtiles.git"
     },
     "cordova": {
-        "id": "cordova-plugin-shared-preferences",
+        "id": "in.edelworks.sharedpreferences",
         "platforms": [
             "android",
             "ios"
